@@ -10,3 +10,7 @@
 </section>
 
 <?php include("includes/footer.php"); ?>
+
+<?php
+  echo "Hello to GIT";
+?>
